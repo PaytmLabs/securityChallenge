@@ -31,6 +31,9 @@ You notice the following entries in the web server access log file:
 Given this scenario, answer the following questions:
 
 Describe what most likely happened based on the information you have.
+
 Calculate the CVSSv3 scores for the vulnerabilities that could have led to the defacement of the website, explain the rational of each vector.
+
 Describe how you would recover the system safely.
+
 Provide the company with security improvements.
