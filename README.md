@@ -2,11 +2,14 @@
 
 You are a Security Engineer at an e-commerce company. The company is running a public facing marketing website.
 
-## The following is the website's technology stack:
+The following is the website's technology stack:
 
-HTML/CSS and JavaScript.
+HTML/CSS and JavaScript
+
 PHP
+
 MySQL
+
 Linux with Apache
 
 ## Scenario
