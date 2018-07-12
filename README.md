@@ -20,11 +20,17 @@ You notice unknown files on the server's doc root folder.
 You notice the following entries in the web server access log file:
 
 82.2.5.25 - - [16/Apr/2018:20:21:56 +0100] "GET /config/sql.conf HTTP/1.1" 404 3804 "-" "curl/7.37.0"
+
 82.2.5.25 - - [16/Apr/2018:20:21:58 +0100] "GET /config/mssql.conf HTTP/1.1" 404 3804 "-" "curl/7.37.0"
+
 82.2.5.25 - - [16/Apr/2018:20:21:59 +0100] "GET /config/postgres.conf HTTP/1.1" 404 3804 "-" "curl/7.37.0"
+
 82.2.5.25 - - [16/Apr/2018:20:22:00 +0100] "GET /config/mysql.conf HTTP/1.1" 200 3804 "-" "curl/7.37.0"
+
 84.155.41.27 - - [16/Apr/2018:21:20:56 +0100] "POST /phpmyadmin/login HTTP/1.1" 200 3804 "-" "Mozilla/5.0 (Windows NT 6.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0"
+
 84.155.41.27 - - [16/Apr/2018:22:50:05 +0100] "GET / HTTP/1.1" 200 3804 "-" "Mozilla/5.0 (Windows NT 6.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+
 84.155.41.27 - - [16/Apr/2018:22:56:56 +0100] "POST /uploads/c99.php HTTP/1.1" 200 3804 "-" "Mozilla/5.0 (Windows NT 6.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0"
 
 ## Question
